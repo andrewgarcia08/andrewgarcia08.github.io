@@ -21,5 +21,4 @@ This analysis project analyzes college football team performance data from 2021 
 
 This project was one of my first ones utilizing Excel outside of school and was a developing interest at the time of work. With news of the University of Delaware moving up in the Conference for all of its Division 1 teams, I was tasked with creating charts and tools that would help compare our football teams with other schools to determine our future performance.
 
-(https://raw.githubusercontent.com/andrewgarcia08/college-football-performance-analysis/main/college-football_performance-analysis.xlsx)
-(https://andrewgarcia08.github.io/college-football_performance-analysis/)
+[View Project Website Here -->] (https://andrewgarcia08.github.io/college-football_performance-analysis/)
