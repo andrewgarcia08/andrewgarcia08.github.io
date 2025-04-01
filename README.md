@@ -22,3 +22,10 @@ This analysis project analyzes college football team performance data from 2021 
 This project was one of my first ones utilizing Excel outside of school and was a developing interest at the time of work. With news of the University of Delaware moving up in the Conference for all of its Division 1 teams, I was tasked with creating charts and tools that would help compare our football teams with other schools to determine our future performance.
 
 [View Project Website Here -->] (https://andrewgarcia08.github.io/college-football_performance-analysis/)
+
+#### 2. Neural Networks Project using Titanic.csv Dataset (2024)
+This project demonstrates the application of neural networks to predict passenger survival outcomes based on the Titanic dataset. The project encompasses data loading, preprocessing, model training, and performance evaluation. Key steps include handling missing values, splitting data into training and test sets, and experimenting with various batch sizes and epoch counts to optimize model accuracy. Visualizations of training and validation accuracy, as well as loss plots, are provided to illustrate the model's learning behavior and optimization process.
+
+While working on this project, I developed a deeper interest in learning more about this new area of data analytics, particularly how machine learning models can be optimized for real-world applications, from data preprocessing techniques to fine-tuning neural network architectures for better accuracy and efficiency. 
+
+[View Project Website Here -->] (https://andrewgarcia08.github.io/NeuralNetworksProject-TitanicDataset/)
