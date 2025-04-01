@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, C# (.NET Console Applications), Microsoft Excel, R/RStudio
 
 ## Education
-- B.S. Management Information Systems; Minor in Business Analytics | The University of Delaware (_May 2026_)								       		
+B.S. Management Information Systems; Minor in Business Analytics | The University of Delaware (_May 2026_)								       		
 
 
 ## Relevant Work Experience
