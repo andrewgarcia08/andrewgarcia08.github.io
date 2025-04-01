@@ -17,7 +17,7 @@ leveraging tools such as Python, SQL, Excel, R/Rstudio, and C#. Each project ref
 personal initiatives.
 
 #### 1. College Football Performance Analysis (2021-2023)
-This spreadsheet analysis analyzes college football team performance data from 2021 to 2023 to uncover trends, strengths, and areas for improvement. Using a dataset of team statistics (e.g., points per game, third-down conversions, passing/rushing yards, sacks, and turnovers), I developed multiple tools to provide actionable insights for coaches, analysts, or enthusiasts: PivotTables displaying graphs and trends over the years, a performance heatmap, and a dynamic comparison tool.
+This spreadsheet study evaluates college football team performance data from 2021 to 2023 to uncover trends, strengths, and areas for improvement. Using a dataset of team statistics (e.g., points per game, third-down conversions, passing/rushing yards, sacks, and turnovers), I developed multiple tools to provide actionable insights for coaches, analysts, or enthusiasts: PivotTables displaying graphs and trends over the years, a performance heatmap, and a dynamic comparison tool.
 
 This project was one of my first ones utilizing Excel outside of school and was a developing interest at the time of work. With news of the University of Delaware moving up in the Conference for all of its Division 1 teams, I was tasked with creating charts and tools that would help compare our football teams with other schools to determine our future performance.
 
