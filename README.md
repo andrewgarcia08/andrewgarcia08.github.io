@@ -1,6 +1,6 @@
-# Prospective Data/Business Analyst
+# Prospective Data Scientist
 
-#### Technical Skills: Python, SQL, C# (.NET Console Applications), Microsoft Excel, R/RStudio
+#### Technical Skills: Python, SQL, C# (.NET Console Applications), Microsoft Excel, R
 
 ## Education
 B.S. Management Information Systems; Minor in Business Analytics | The University of Delaware (_May 2026_)								       		
