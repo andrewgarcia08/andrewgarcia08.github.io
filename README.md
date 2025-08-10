@@ -29,3 +29,10 @@ This project demonstrates the application of neural networks to predict passenge
 While undertaking this neural network experiment, I developed a deeper interest in learning more about this new area of data analytics, particularly how machine learning models can be optimized for real-world applications, from data preprocessing techniques to fine-tuning neural network architectures for better accuracy and efficiency. 
 
 [View Project Website Here -->] (https://andrewgarcia08.github.io/NeuralNetworksProject-TitanicDataset/)
+
+#### 3. Capital One SmartBudget AI Tool (2025)
+This collaborative experience, working alongside a group of college students throughout the United States, showcases the design of SmartBudget, an AI-powered budgeting tool developed for the 2025 Capital One Case Competition to help young adults manage gig income, student debt, and rising living costs. Key tasks included conducting a medium-sized participant survey, analyzing user financial habits, and translating insights into features such as real-time overspending alerts, gamified rewards, and bite-sized financial education. The work involved strategic rollout planning, competitive analysis against existing tools, and financial modeling. The project earned Semi-Finalist recognition, placing in the top 5% of participating teams.
+
+While developing SmartBudget, I gained a deeper interest in how AI can be applied to real-world financial challenges, particularly in creating personalized, data-driven tools that improve user engagement and financial literacy. This experience strengthened my skills in user research, strategic rollout planning, and translating survey insights into impactful product features.
+
+[View Project Website Here -->] ([https://github.com/andrewgarcia08/CapitalOne-SmartBudget-CaseCompetition/])
