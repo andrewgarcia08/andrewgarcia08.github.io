@@ -11,6 +11,9 @@ B.S. Management Information Systems; Minor in Business Analytics | The Universit
 - Collected, cleaned, and analyzed sports statistics for the Division 1 football team, evaluating performance trends and forecasting outcomes against conference opponents and higher-ranked teams.
 - Generated weekly reports using PivotTables and descriptive statistics to analyze practice data, tracking trends, advancements, and areas for improvement over a 4- to 6-month period.
 
+**Research Assistant @ University of Delaware Department of Business Administration (_May 2025 - July 2025_)**
+- Conducted exploratory research of 150+ university technology transfer offices and managed data entry on staff backgrounds using Microsoft Excel.
+
 ## Projects
 The projects showcased in this portfolio include work completed both in academic settings and independently. These initiatives demonstrate a strong foundation in data analysis, visualization, and problem-solving, 
 leveraging tools such as Python, SQL, Excel, R/Rstudio, and C#. Each project reflects my ability to collect, clean, and analyze data to derive meaningful insights, whether through coursework, internships, or 
