@@ -22,7 +22,7 @@ personal initiatives.
 #### 1. College Football Performance Analysis (2021-2023)
 This spreadsheet study evaluates college football team performance data from 2021 to 2023 to uncover trends, strengths, and areas for improvement. Using a dataset of team statistics (e.g., points per game, third-down conversions, passing/rushing yards, sacks, and turnovers), I developed multiple tools to provide actionable insights for coaches, analysts, or enthusiasts: PivotTables displaying graphs and trends over the years, a performance heatmap, and a dynamic comparison tool.
 
-This project was one of my first ones utilizing Excel outside of school and was a developing interest at the time of work. With news of the University of Delaware moving up in the Conference for all of its Division 1 teams, I was tasked with creating charts and tools that would help compare our football teams with other schools to determine our future performance.
+This project was one of my first ones utilizing Excel outside of school, and was a developing interest at the time of work. With news of the University of Delaware moving up in the Conference for all of its Division 1 teams, I was tasked with creating charts and tools that would help compare our football teams with other schools to determine our future performance.
 
 [View Project Website Here -->] (https://andrewgarcia08.github.io/college-football_performance-analysis/)
 
@@ -39,3 +39,10 @@ This collaborative experience, working alongside a group of college students thr
 While developing SmartBudget, I gained a deeper interest in how AI can be applied to real-world financial challenges, particularly in creating personalized, data-driven tools that improve user engagement and financial literacy. This experience strengthened my skills in user research, strategic rollout planning, and translating survey insights into impactful product features.
 
 [View Project Website Here -->] ([https://github.com/andrewgarcia08/CapitalOne-SmartBudget-CaseCompetition/])
+
+#### 4. E-commerce Dataset Project with Python and Flask
+This project analyzes an e-commerce sales dataset to uncover category performance, pricing impacts, and seasonal purchasing trends. Using Python in Jupyter Notebook, I cleaned and explored transaction data (including User ID, Product ID, Category, Price, Discount, Final Price, Payment Method, and Purchase Date) to create summary statistics, visualizations, and trend analyses. I then integrated Flask, a lightweight, Python-based web framework, to make it easy to build and deploy a web application for plots and key statistics to be visualized.
+
+This is one of my first projects utilizing the Flask framework under VS Code. The website application is only the beginning of my exploration into web frameworks. This project helped me understand how to connect backend data analysis in Python with a user-friendly web interface. It also sparked my interest in creating more interactive, data-driven applications that combine analytics with real-time user interaction.
+
+[View Project Website Here -->] ([https://github.com/andrewgarcia08/EcommerceDatasetProject-with-Python-and-Flask])
