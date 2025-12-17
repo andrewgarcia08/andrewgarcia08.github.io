@@ -46,3 +46,10 @@ This project analyzes an e-commerce sales dataset to uncover category performanc
 This is one of my first projects utilizing the Flask framework under VS Code. The website application is only the beginning of my exploration into web frameworks. This project helped me understand how to connect backend data analysis in Python with a user-friendly web interface. It also sparked my interest in creating more interactive, data-driven applications that combine analytics with real-time user interaction.
 
 [View Project Website Here -->] ([https://github.com/andrewgarcia08/EcommerceDatasetProject-with-Python-and-Flask])
+
+#### 5. TrueSight App: Smart Vision Health Companion
+This project involved designing the user interface (UI) and user experience (UX) for the TrueSight smart glasses companion app, focused on continuous vision health monitoring and proactive eye-care management. The core objective was to create an intuitive mobile interface that could bridge the gap between AI-driven health data and the user's relationship with their eye doctor. Key features designed include the Appointment Sync module for remote data sharing and checkup scheduling, a dynamic Health Tracking dashboard for real-time vision metrics (like Eye Strain and Blink Rate), and a detailed, multi-step User Onboarding flow for secure prescription and health data input. The design also incorporated gamification elements, such as the integrated shopping feature, allowing users to browse and virtually try on frames.
+
+The design process for TrueSight required a focus on user trust and data transparency, particularly concerning AI-driven insights. This project provided hands-on experience in structuring a complex design system to support a two-tier product model (hardware + subscription). My learning was concentrated on translating complex health technology into digestible visual interfaces, ensuring users felt empowered to make informed decisions without being intimidated by data. Ultimately, this project enhanced my ability to design applications that integrate smart hardware data into a seamless, user-controlled health and wellness ecosystem.
+
+[View Project Website Here -->]
