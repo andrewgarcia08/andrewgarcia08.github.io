@@ -52,4 +52,4 @@ This project involved designing the user interface (UI) and user experience (UX)
 
 The design process for TrueSight required a focus on user trust and data transparency, particularly concerning AI-driven insights. This project provided hands-on experience in structuring a complex design system to support a two-tier product model (hardware + subscription). My learning was concentrated on translating complex health technology into digestible visual interfaces, ensuring users felt empowered to make informed decisions without being intimidated by data. Ultimately, this project enhanced my ability to design applications that integrate smart hardware data into a seamless, user-controlled health and wellness ecosystem.
 
-[View Project Website Here -->]
+[View Project Website Here -->] ([https://github.com/andrewgarcia08/TrueSight_App_Development_UI])
